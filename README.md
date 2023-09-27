@@ -2,7 +2,8 @@
 
 
 - 📦I am currently working on an app that keeps track of products and their stock (along with some other exciting features!).
-- 🤖I also have developed voice commands for the robot Cozmo
+- 🪙I am also working on a small program that will allow investors keep track of their assets (e.g stocks, crypto currency, etc).
+- 🤖I have developed voice commands for the robot Cozmo
 
 <!--
 **YoghurtGrinch/YoghurtGrinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
