@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 📦I am currently working on an app that keeps track of products and their stock (along with some other exciting features!).
+- 📦I am currently working on an inventory management system app (along with some other exciting features!).
 - 🪙I am also working on a small program that will allow investors keep track of their assets (e.g stocks, crypto currency, etc).
 - 🤖I have developed voice commands for the robot Cozmo
 
